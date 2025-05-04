@@ -1,0 +1,4 @@
+npm run formato
+npm test
+npm run lint
+npm run build

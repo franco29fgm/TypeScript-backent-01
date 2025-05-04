@@ -1,0 +1,28 @@
+Polivalente: Que vale para muchas cosas
+Commonjs -> require
+ECMAScript -> esta sintaxis debemos usar (import) --> recomendado
+
+Versiones en javascript:
+    Porqué no hay 1, 2, 3, 4
+    javascript es una marca registrada por oracle, la palabra y el logotipo le pertenece a oracle. Por eso no le podemos javascript 1, 2, etc. No se puede usar la palabra.
+
+    si tu sacas algo marcado con la palabra javascript y el logo, te puede caer una demanda.
+
+    como no se puede crear versiones, entra la palabra ECMA
+    ECMA es un grupo que maneja los estándares, y las versiones existen bajo la vigilancia de ECMA
+
+    Typescript recomienda ECMAScript 2016
+
+    Con ECMAScript en typescript ayuda a definir el contexto. Todo lo que se declara dentro de un módulo, queda en ese módulo.
+    
+Motores de ejecución:
+    v8 de chrome
+
+Azucar Sitactica: 
+
+Aislamiento del contexto
+
+______Pizarra______
+https://excalidraw.com/
+
+
